@@ -1,0 +1,5 @@
+{
+  "name": "VibeCode v0 Clone",
+  "description": "A vibe-coding application that generates three distinct landing page layouts from a single prompt using Gemini AI.",
+  "requestFramePermissions": []
+}
